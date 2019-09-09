@@ -6,5 +6,5 @@ sum = a
 a = random.randint(0,101)
 print(a)
 sum += a
-print(sum)
-print(sum/2)
+print("Sum = ", sum)
+print("Average = ", sum/2)
